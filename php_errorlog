@@ -1,0 +1,56 @@
+[25-Aug-2025 13:22:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 2
+[25-Aug-2025 13:22:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 2
+[25-Aug-2025 13:22:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 2
+[25-Aug-2025 13:22:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 2
+[25-Aug-2025 13:23:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 2
+[25-Aug-2025 13:27:27 UTC] PHP Parse error:  syntax error, unexpected floating-point number "17629e02", expecting ")" in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/article.php on line 104
+[25-Aug-2025 13:27:30 UTC] PHP Parse error:  syntax error, unexpected floating-point number "17629e02", expecting ")" in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/article.php on line 104
+[25-Aug-2025 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/category.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/category.php on line 2
+[25-Aug-2025 13:29:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/category.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/category.php on line 2
+[25-Aug-2025 14:10:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 2
+[25-Aug-2025 14:11:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 2
+[25-Aug-2025 14:11:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 2
+[25-Aug-2025 14:11:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'db_connect.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 2
+[27-Aug-2025 13:56:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db8hcpfk0p8w38.articles' doesn't exist in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/category.php:179
+Stack trace:
+#0 /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/category.php(179): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/category.php on line 179
+[09-Sep-2025 15:12:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db8hcpfk0p8w38.articles' doesn't exist in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php:220
+Stack trace:
+#0 /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php(220): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/customer/www/rsoa170.millioncoders.net/public_html/DHL/index.php on line 220
